@@ -1,0 +1,270 @@
+############################ Slider ##########################
+slider:
+  enable: true
+  slider_item:
+    ################# Slider item loop
+    - title: "Your worries regarding all types of thesis work is now over."
+      subtitle: "We can ensure that your thesis will have prime quality."
+      bg_image: "images/slider/bg1.jpg"
+      image: ""
+      image_position: "false"
+      # slider navigator
+      navigator:
+        label: "Thesis"
+        icon: "fa-book" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+
+    ################# Slider item loop
+    - title: "Your worries regarding ISBN Publication is now over."
+      subtitle: "We Making Difference To Great Things Possible"
+      bg_image: "images/slider/bg1.jpg"
+      image: ""
+      image_position: "false"
+      # slider navigator
+      navigator:
+        label: "Publication"
+        icon: "fa-barcode" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+
+    ############### Slider item loop
+    - title: "Are you worried about your school clerical work ?"
+      subtitle: "We Making Difference To Great Things Possible"
+      bg_image: "images/slider/bg2.jpg"
+      image: "images/slider/bg-thumb1.png"
+      image_position: "left"
+      # slider navigator
+      navigator:
+        label: "Consultation"
+        icon: "fa-handshake-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+
+    ############### Slider item loop
+    - title: "Your goal is our goal."
+      subtitle: "Your Challenge is Our Progress."
+      bg_image: "images/slider/bg2.jpg"
+      image: "images/slider/bg-thumb2.png"
+      image_position: "right"
+      # slider navigator
+
+      navigator:
+        label: "Typing"
+        icon: "fa-keyboard-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+
+
+    ############### Slider item loop
+    - title: "Your Challenge is Our Progress"
+      subtitle: "Wedding Cards, Business Cards, Logo, & Web Designing"
+      bg_image: "images/slider/bg2.jpg"
+      image: "images/slider/bg-thumb2.png"
+      image_position: "right"
+      # slider navigator
+      navigator:
+        label: "Design"
+        icon: "fa-paint-brush" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+
+
+############################### Service ####################################
+service:
+  enable: true
+  # service content comes from "data/service.yml" file
+
+############################### portfolio ##################################
+portfolio:
+  enable: false
+  title: "Our Awesome Work"
+  subtitle: "We Making Difference To Great Things Possible"
+  title_icon: "fa-suitcase"
+  # portfolio items comes from "content/portfolio" folder
+
+############################### funfact ##################################
+funfact:
+  enable: true
+  funfact_item:
+    # funfact item loop
+    - name: "Clients"
+      icon: "fa-user" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      count: "750"
+
+    # funfact item loop
+    - name: "Item Sold"
+      icon: "fa-shopping-cart" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      count: "1500"
+
+    # funfact item loop
+    - name: "Consultants"
+      icon: "fa-handshake-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      count: "35"
+
+    # funfact item loop
+    - name: "School and Colleges Covered"
+      icon: "fa-institution" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      count: "10"
+
+###############################book
+feature:
+  enable: true
+  feature_item:
+    # feature item loop
+    - name: "Clean &amp; Modern Dissertations typewriting"
+      icon: "fa-book" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Useful Articles typing"
+      icon: "fa-keyboard-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Document typing"
+      icon: "fa-pencil" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Multipurpose CVs typing"
+      icon: "fa-newspaper-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Letters typing"
+      icon: "fa-pencil-square-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Document typing"
+      icon: "fa-pencil-square" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Grammar correction"
+      icon: "fa-recycle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Data entry"
+      icon: "fa-table " # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+    # feature item loop
+    - name: "Web design & development"
+      icon: "fa-desktop" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+
+############################### about ##################################
+about:
+  enable: true
+  title: "Know More About Jobwork Center"
+  subtitle: "Why Choose Us"
+  bg_image: "images/image-block-bg.jpg"
+  content: "We have been doing all kinds of jobworks in a perfect way since 2011. We are excellent in all kinds of typing works including English, Gujarati  Hindi and Sanskrit."
+  about_item:
+    # about item loop
+    - name: "Thesis works."
+      icon: "fa-book" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "We do wonderful thesis works of M.Ed., MSW and Ph.D."
+
+    # about item loop
+    - name: "School Consultation"
+      icon: "fa-handshake-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "New school approval, Class Extention, SSC, HSC Exam forms and many more"
+
+    # about item loop
+    - name: "Wedding & Business Cards Designing"
+      icon: "fa-paint-brush" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: "With an extensive catalog of wide variety of premium wedding cards at your fingertips, you can be sure you’ll find as unique as you are."
+
+############################### team ####################################
+team:
+  enable: false
+  # team content comes from "data/team.yml" file
+
+############################ Call to action #############################
+call_to_action:
+  enable: false
+  title: "Are You Ready to Buy This Template!"
+  subtitle: "Just Click Button and Use Your Own"
+  bg_image: "images/parallax/parallax1.jpg"
+  buttons:
+    # button loop
+    - label: "Purchase Now"
+      style: "white"
+      link: "#"
+
+    # button loop
+    - label: "Get In Touch"
+      style: "solid"
+      link: "#"
+
+############################### pricing ####################################
+pricing:
+  enable: false
+  # pricing content comes from "data/pricing.yml" file
+
+############################### testimonial ####################################
+testimonial:
+  enable: true
+  bg_image: "images/parallax/parallax2.jpg"
+  testimonial_item:
+
+    # testimonial item loop
+    - name: "Dr. A. R. Bharda"
+      image: "images/team/testimonial3.jpg"
+      designation: "Director, Dr. V. R. Godhaniya B. Ed. College, Porbandar"
+      content: "પોરબંદર ખાતે આપનું જોબવર્ક સેન્ટર શિક્ષણ, સાહિત્ય, સંશોધન ક્ષેત્રેની કામગીરીમાં શ્રેષ્ઠ કામગીરી કરી રહ્યું છે. બી.એડ., એમ.એડ, પીએચ.ડી.ના લધુશોધ નિબંધો, મહાશોધ નિબંધો, રિસર્ચ પેપરો, પ્રોજેકટો, અહેવાલો, લેખો માટેનું ટાઇપીંગ ભૂલરહિત અને ત્વરિત સેવાનો સ્તુત્ય પ્રયાસ રહ્યો છે. વિદ્યાર્થીઑ સહિત શિક્ષકો, પ્રોફેસરો, પોતાની વ્યાવસાયિક સજ્જતા વિકસાવવા માટેનું આપનું જોબવર્ક સેન્ટર અનેક એજન્સીઓ સાથે જોડાયેલુ હોવાના કારણે 'જોબવર્ક સેન્ટર' શ્રેષ્ઠ છે તેનો હું સાક્ષી રહ્યો છું. જોબવર્ક સેન્ટરની કામગીરી જોઈને હું મારો રાજીપો વ્યક્ત કરી અભિનંદન સાથે શુભેચ્છા પાઠવું છું."
+
+    # testimonial item loop
+    - name: "Dr. Nayan Tank"
+      designation: "Associate Professor at Gurukul Mahila College, Porbandar"
+      content: " I am quite satisfied with the Jobwork Center. They have fantastically done typing and job work of my Ph.D thesis. They are expert in errorless typing and has an artistic eye of making the work excellent. They are honest, sincere and dedicated towards their work and very much customer friendly too."
+
+    # testimonial item loop
+    - name: "Amjad Rathod"
+      designation: "CEO | Co-Founder at JAMFlow"
+      content: "I am extremely happy with the Jobwork Center's Business card designing. The colors are very vivid and they match pretty much exactly to what you see on the computer. Great Work !"
+
+    # testimonial item loop
+    - name: "Mrs. Sunayna Dogra"
+      image: "images/team/testimonial3.jpg"
+      designation: "Principal, Cham Memorial English & Gujarati Medium School, Porbandar"
+      content: "An all rounder support for school. Bhaveshbhai Modha not one name he is an epicentre from where all work can be sougst without any problems. Dedication for work is praiseworthy. Highly Recommeneded."
+
+
+############################ Clients logo slider ##########################
+clients_logo_slider:
+  enable: false
+  slider_item:
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client1.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client2.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client3.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client4.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client5.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client6.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client7.png"
+      link: "#"
+
+    # slider item loop
+    - name: "client"
+      logo: "images/clients/client8.png"
+      link: "#"
