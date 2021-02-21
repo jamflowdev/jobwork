@@ -21,7 +21,7 @@
         {{ end }}
         <div class="{{if .image}}cd-half-width{{else}}cd-full-width{{end}}">
           <h2>{{ .title | markdownify }}</h2>
-          <h3>{{ .subtitle | markdownify }}</h3>
+          <h3 class="px-150">{{ .subtitle | markdownify }}</h3>
           {{ range .buttons }}
           <a href="{{ .link | absURL }}" class="btn btn-primary {{.style}} cd-btn">{{ .label }}</a>
           {{ end }}

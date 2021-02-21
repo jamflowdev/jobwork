@@ -24,22 +24,21 @@
   </div>
   {{ end }}
 
-  <div class="gap-60"></div>
 
 
-  <!-- Testimonial start-->
-  {{ if .Site.Data.service.testimonial.enable }}
-  {{ partial "testimonial.html" . }}
-  {{ end }}
-  <!--/ Testimonial end-->
-
-  <div class="gap-60"></div>
-  
 
   {{ if .Site.Data.service.pricing.enable }}
   {{ partial "pricing.html" . }}
   {{ end }}
 
 </section>
+<section class="py-0">
+  <!-- Testimonial start-->
+  {{ if .Site.Data.service.testimonial.enable }}
+  {{ partial "testimonial.html" . }}
+  {{ end }}
+  <!--/ Testimonial end-->
 
+
+</section>
 {{ end }}

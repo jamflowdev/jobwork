@@ -522,6 +522,9 @@ blockquote {
   text-align: center;
   margin: 0 auto; }
 
+.px-150 {
+  padding: 0 150px; }
+
 /* Main navigation */
 .navbar {
   padding: 0; }
@@ -2625,7 +2628,6 @@ a.close-styler {
     position: relative; }
   /* Service */
   .service-content {
-    display: inline-block;
     margin-bottom: 30px; }
   /* Portfolio */
   .isotope-nav {

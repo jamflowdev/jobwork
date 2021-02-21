@@ -40,18 +40,9 @@
     <!--/ Content row end -->
   </div>
   <!--/ 1st container end -->
-  <div class="gap-60"></div>
   {{ end }}
   {{ end }}
 
-
-  <!-- Counter Strat -->
-  {{ if .Site.Data.homepage.funfact.enable }}
-  {{ partial "funfact.html" . }}
-  {{ end }}
-  <!--/ Counter end -->
-
-  <div class="gap-60"></div>
 
   <!-- Team start -->
   {{ if .Site.Data.homepage.team.enable }}
@@ -59,5 +50,11 @@
   {{ end }}
   <!--/ Team end -->
 </section>
-
+<section class="py-0">
+    <!-- Counter Strat -->
+    {{ if .Site.Data.homepage.funfact.enable }}
+    {{ partial "funfact.html" . }}
+    {{ end }}
+    <!--/ Counter end -->
+</section>
 {{ end }}
