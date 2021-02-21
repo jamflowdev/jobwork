@@ -12,27 +12,27 @@ services:
     # service item loop
     - name: "Scholarship & Exam forms"
       icon: "fa-file-text" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor"
+      content: "All types of educational scholarships and all competitive exam forms"
 
     # service item loop
     - name: "School Consultation"
       icon: "fa-handshake-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "New school approval, Class Extention, SSC, HSC Exam forms and many more"
+      content: "New school approval, Class Extention, Board Exam forms and many more"
 
     # service item loop
     - name: "Research Paper & ISBN Publication"
       icon: "fa-barcode" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor"
+      content: "Research paper publish in peer review gernals and ISBN publication made easy."
 
     # service item loop
     - name: "School Stationery Printing"
       icon: "fa-print" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor"
+      content: "Letterpad, Envolopes, Fee Receipt, Leaving Certificate, etc."
 
     # service item loop
     - name: "Designing"
       icon: "fa-paint-brush" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Wedding Cards, Business Cards, Logo, & Web Designing"
+      content: "Invitation Cards, Business Cards, Logo, & Web Designing"
 
 ############################### testimonial ####################################
 testimonial:

@@ -5,7 +5,7 @@ slider:
     ################# Slider item loop
     - title: "Your worries regarding all types of thesis work is now over."
       subtitle: "We can ensure that your thesis will have prime quality."
-      bg_image: "images/slider/bg1.jpg"
+      bg_image: "images/slider/thesis-bg.jpg"
       image: ""
       image_position: "false"
       # slider navigator
@@ -14,9 +14,9 @@ slider:
         icon: "fa-book" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
     ################# Slider item loop
-    - title: "Your worries regarding ISBN Publication is now over."
-      subtitle: "We Making Difference To Great Things Possible"
-      bg_image: "images/slider/bg1.jpg"
+    - title: "Your worries regarding Book & Research Paper Publication is now over."
+      subtitle: "Research paper publish in peer review gernals and ISBN publication made easy."
+      bg_image: "images/slider/research-bg.jpg"
       image: ""
       image_position: "false"
       # slider navigator
@@ -26,21 +26,21 @@ slider:
 
     ############### Slider item loop
     - title: "Are you worried about your school clerical work ?"
-      subtitle: "We Making Difference To Great Things Possible"
-      bg_image: "images/slider/bg2.jpg"
-      image: "images/slider/bg-thumb1.png"
-      image_position: "left"
+      subtitle: "New school approval, Class Extention, Board Exam forms and many more"
+      bg_image: "images/slider/consultation-bg.jpg"
+      # image: "images/slider/bg-thumb1.png"
+      # image_position: "left"
       # slider navigator
       navigator:
         label: "Consultation"
         icon: "fa-handshake-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
     ############### Slider item loop
-    - title: "Your goal is our goal."
-      subtitle: "Your Challenge is Our Progress."
-      bg_image: "images/slider/bg2.jpg"
-      image: "images/slider/bg-thumb2.png"
-      image_position: "right"
+    - title: "Any kind of typing work."
+      subtitle: "We offer highly effective and accurate typing that is done very quickly, typed perfectly and formatted exactly as required."
+      bg_image: "images/slider/typing-bg.jpg"
+      # image: "images/slider/bg-thumb2.png"
+      # image_position: "right"
       # slider navigator
 
       navigator:
@@ -50,10 +50,10 @@ slider:
 
     ############### Slider item loop
     - title: "Your Challenge is Our Progress"
-      subtitle: "Wedding Cards, Business Cards, Logo, & Web Designing"
-      bg_image: "images/slider/bg2.jpg"
-      image: "images/slider/bg-thumb2.png"
-      image_position: "right"
+      subtitle: "Invitation Cards, Business Cards, Logo, & Web Designing"
+      bg_image: "images/slider/design-bg.jpg"
+      # image: "images/slider/bg-thumb2.png"
+      # image_position: "right"
       # slider navigator
       navigator:
         label: "Design"
@@ -104,54 +104,54 @@ feature:
     # feature item loop
     - name: "Clean &amp; Modern Dissertations typewriting"
       icon: "fa-book" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Useful Articles typing"
       icon: "fa-keyboard-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Document typing"
       icon: "fa-pencil" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Multipurpose CVs typing"
       icon: "fa-newspaper-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Letters typing"
       icon: "fa-pencil-square-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
-    - name: "Document typing"
+    - name: "Invitation and Business Cards"
       icon: "fa-pencil-square" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Grammar correction"
       icon: "fa-recycle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Data entry"
       icon: "fa-table " # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
     # feature item loop
     - name: "Web design & development"
       icon: "fa-desktop" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      # content: "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
 
 ############################### about ##################################
 about:
   enable: true
   title: "Know More About Jobwork Center"
   subtitle: "Why Choose Us"
-  bg_image: "images/image-block-bg.jpg"
+  bg_image: "images/slider/why-choose-us.jpg"
   content: "We have been doing all kinds of jobworks in a perfect way since 2011. We are excellent in all kinds of typing works including English, Gujarati  Hindi and Sanskrit."
   about_item:
     # about item loop
@@ -165,9 +165,9 @@ about:
       content: "New school approval, Class Extention, SSC, HSC Exam forms and many more"
 
     # about item loop
-    - name: "Wedding & Business Cards Designing"
+    - name: "Invitation & Business Cards Designing"
       icon: "fa-paint-brush" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: "With an extensive catalog of wide variety of premium wedding cards at your fingertips, you can be sure you’ll find as unique as you are."
+      content: "With an extensive catalog of wide variety of premium invitation cards at your fingertips, you can be sure you’ll find as unique as you are."
 
 ############################### team ####################################
 team:
