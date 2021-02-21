@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "News"
 # page header background image
 page_header_bg: "images/banner/banner1.jpg"
 # meta description
