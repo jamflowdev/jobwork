@@ -15,7 +15,7 @@ slider:
 
     ################# Slider item loop
     - title: "Your worries regarding Book & Research Paper Publication is now over."
-      subtitle: "Research paper publish in peer review gernals and ISBN publication made easy."
+      subtitle: "Research paper publish in peer review journals and ISBN publication made easy."
       bg_image: "images/slider/research-bg.jpg"
       image: ""
       image_position: "false"
@@ -222,7 +222,7 @@ testimonial:
     - name: "Mrs. Sunayna Dogra"
       image: "images/team/testimonial3.jpg"
       designation: "Principal, Cham Memorial English & Gujarati Medium School, Porbandar"
-      content: "An all rounder support for school. Bhaveshbhai Modha not one name he is an epicentre from where all work can be sougst without any problems. Dedication for work is praiseworthy. Highly Recommeneded."
+      content: "An all rounder support for school. Bhaveshbhai Modha is not a name he is an epicenter from where all work can be sought without any problems. Dedication for work is praiseworthy. Highly Recommeneded."
 
 
 ############################ Clients logo slider ##########################
