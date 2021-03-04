@@ -9,4 +9,4 @@ tags = []
 title = "TAT શિક્ષણ સહાયક ભરતી BIG  BREAKING NEWS  💥 ઉચ્ચતર માધ્યમિક ડોકયુમેન્ટ વેરીફીકેશન કોલ લેટર ડીકલેર"
 
 +++
-[http://hgr.gserc.in/Candidate/HGRLogin?data=xyPwpbqQ9F/QToIiO2vrUg==](http://hgr.gserc.in/Candidate/HGRLogin?data=xyPwpbqQ9F/QToIiO2vrUg== "APPLY HERE")
+[APPLY HERE](http://hgr.gserc.in/Candidate/HGRLogin?data=xyPwpbqQ9F/QToIiO2vrUg== "TO DOWNLOAD YOUR CALL LETTER CLICK HERE")
