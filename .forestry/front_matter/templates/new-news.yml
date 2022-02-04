@@ -28,4 +28,5 @@ fields:
   label: description
 pages:
 - content/news/.10-1.md
+- content/news/.10-2.md
 - content/news/.10.md
